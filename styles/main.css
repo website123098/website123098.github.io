@@ -2,3 +2,13 @@ body {
   background-color: #1e90ff;
   font-family: Roboto;
 }
+p {
+  color: #ff7600;
+}
+h1,h2,h3,h4,h5,h6 {
+  color: #ff7600;
+  text-align: center;
+}
+a {
+  color: #ff7600;
+}
