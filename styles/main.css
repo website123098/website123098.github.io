@@ -9,12 +9,12 @@ h1, h2, h3, h4, h5, h6 {
   color: #ff7600;
   text-align: center;
 }
-.navbar {
+.nav {
   overflow: hidden;
   background-color: #ff7600;
   font-family: Arial;
 }
-.navbar a {
+.nav a {
   float: left;
   font-size: 16px;
   color: blue;
@@ -36,7 +36,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: inherit;
   margin: 0;
 }
-.navbar a:hover, .dropdown:hover .dropbtn {
+.nav a:hover, .dropdown:hover .dropbtn {
   background-color: #803c00;
 }
 .dropdown-content {
